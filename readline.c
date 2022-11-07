@@ -5,7 +5,7 @@
  *
  * Return: zero
 */
-int main()
+int main(void)
 {
 char *str;
 str = malloc(sizeof(char));
