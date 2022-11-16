@@ -4,6 +4,9 @@
  * without using the "ac" variable
  * You can also use: (void) ac
  *
+ * @ac: integer parameter
+ * @av: pointer-to-character-pointer
+ *
  * Return: zero
 */
 int main(__attribute__((unused))int ac, char **av)

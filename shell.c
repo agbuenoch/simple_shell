@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void pass_betty();
-
-
 /**
  * main - program that prints all the arguments, without using ac.
  *
